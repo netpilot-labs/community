@@ -15,4 +15,5 @@ This repo is the central place to report bugs, request features, and discuss any
 | **Platform** | [netpilot.io](https://netpilot.io) |
 | **Documentation** | [netpilot.io/docs](https://netpilot.io/docs) |
 | **Blog** | [netpilot.io/blog](https://netpilot.io/blog) |
+| **Status** | [status.netpilot.io](https://status.netpilot.io) |
 | **Email** | [contact@netpilot.io](mailto:contact@netpilot.io) |
