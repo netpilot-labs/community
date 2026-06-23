@@ -25,6 +25,8 @@ This repo is the central place to report bugs, request features, and discuss any
 | **Network Research Lab** | [netpilot.io/network-research-lab](https://www.netpilot.io/network-research-lab) — cross-vendor bug repro, protocol research, outage forensics |
 | **Best platforms 2026** | [Best Network Research Lab Platforms in 2026](https://www.netpilot.io/blog/best-network-research-lab-2026) — tier-ranked comparison |
 | **Example prompts** | [netpilot-labs/example-prompts](https://github.com/netpilot-labs/example-prompts) — 40+ copy-paste AI prompts |
+| **LinkedIn** | [Follow NetPilot](https://www.linkedin.com/company/netpilot) — lab breakdowns + product updates |
+| **X** | [@netpilotio](https://x.com/netpilotio) |
 | **Email** | [contact@netpilot.io](mailto:contact@netpilot.io) |
 
 ## Code of Conduct
